@@ -2,21 +2,11 @@
 
 > _The Universal Blue experience for the COSMIC desktop environment._
 
-## Here Be Dragons
+## HERE BE DRAGONS
 
-**THIS PROJECT IS UNDER HEAVY DEVELOPMENT AND HAS NOT REACHED PRODUCTION-GRADE QUALITY. USE AT YOUR OWN RISK!**
+**_THERE IS NO WARRANTY FOR THIS SOFTWARE UNDER THE EXTENT OF APPLICABLE LAW. THIS OPERATING SYSTEM IS UNDER HEAVY DEVELOPMENT AND HAS NOT REACHED PRODUCTION-GRADE QUALITY. USE AT YOUR OWN RISK!_**
 
-> Unless required by applicable law or
-> agreed to in writing, Licensor provides the Work (and each
-> Contributor provides its Contributions) on an "AS IS" BASIS,
-> WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-> implied, including, without limitation, any warranties or conditions
-> of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-> PARTICULAR PURPOSE. You are solely responsible for determining the
-> appropriateness of using or redistributing the Work and assume any
-> risks associated with Your exercise of permissions under this License.
-
-_- Apache License 2.0_
+**_For more information about this, see section 7 and 8 of the included [LICENSE](LICENSE) file._**
 
 ## WIP
 
