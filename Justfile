@@ -1,3 +1,8 @@
+# SPDX-FileCopyrightText: 2025 Alexandru Mihai Buzduc <lalibuzduc@gmail.com>
+# SPDX-FileCopyrightText: 2025 Universal Blue
+#
+# SPDX-License-Identifier: Apache-2.0
+
 export repo_organization := env("GITHUB_REPOSITORY_OWNER", "yourname")
 export image_name := env("IMAGE_NAME", "yourimage")
 export centos_version := env("CENTOS_VERSION", "stream10")

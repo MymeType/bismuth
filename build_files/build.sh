@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# SPDX-FileCopyrightText: 2025 Alexandru Mihai Buzduc <lalibuzduc@gmail.com>
+# SPDX-FileCopyrightText: 2025 Universal Blue
+#
+# SPDX-License-Identifier: Apache-2.0
+
 set -ouex pipefail
 
 ### Install packages
