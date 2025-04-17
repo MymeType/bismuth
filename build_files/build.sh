@@ -28,4 +28,4 @@ dnf -y copr disable ublue-os/packages
 #### Enable System Unit Files
 
 # Needed for cosmic-greeter
-systemctl enable greetd.service
+systemctl enable cosmic-greeter
